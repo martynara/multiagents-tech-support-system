@@ -1,0 +1,248 @@
+[
+  {
+    "text": "Technical Support Customer Reference\r\nGuide\r\nVersion 1",
+    "Source": "page_1",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_1-chunk0000"
+  },
+  {
+    "text": "Technical Support Site\r\nIf you encounter any installation or operational issues with your product, check the pertinent section of this manual to see if\r\nthe issue can be resolved by following outlined procedures. For additional assistance, visit https://www.vertivco.com/en\u0002us/support/",
+    "Source": "page_2",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_2-chunk0000"
+  },
+  {
+    "text": "TABLE OF CONTENTS\r\n1.0 Welcome to Technical Support 1\r\n2.0 Technical Support Incident Creation Process 3\r\n2.1 Phone 3\r\n2.2 Electronic/Email 3\r\n3.0 Creating a Company Account for Employees Requiring Full Portal Access 5\r\n4.0 Technical Support Contact Hours 7\r\n4.1 North & South America 7\r\n4.2 Europe & Middle East 7\r\n4.3 Asia Pacific 8\r\n5.0 Avocent Hardware Warranty and Maintenance Benefits 11\r\n5.1 RMA Details 11\r\n6.0 Avocent Software Warranty and Maintenance Benefits 13\r\n7.0 Additional Detail of Severity 15\r\n8.0 Requesting a New Symbol 17\r\n8.1 Generic Symbols 17\r\n8.2 Checking the Status of a Symbol Request 18\r\n9.0 Professional Services 19\r\n9.1 Current Programs 19\r\n9.1.1 Site Survey 19\r\n9.1.2 Remote configuration and support for installations 19\r\n9.1.3 Implementation 19\r\n9.1.4 Custom Implementation 19\r\n9.2 Concurrent training 19\r\n10.0 Avocent End of Life Policy 21\r\n10.1 Standard Guideline for EOL Milestones 21\r\n11.0 Return Material Authorization 23\r\n11.1 RMA Shipping Locations 23\r\n12.0 Avocent Limited Warranty 25\r\n12.1 Product Return Procedure 25\r\n13.0 Out-of-Warranty Repairs or Replacements 27\r\nVertiv | Technical Support Customer Reference Guide Version 1 | i",
+    "Source": "page_3",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_3-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | ii",
+    "Source": "page_4",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_4-chunk0000"
+  },
+  {
+    "text": "1.0 WELCOME TO TECHNICAL SUPPORT\r\nDear Valued Vertiv® Customer,\r\nVertiv Technical Support, formerly Emerson Network Power Avocent Technical Support, is excited to announce the release\r\nof a new Customer Portal on www.VertivCo.com. The Portal is an important interaction point for customers. Customers will\r\nbe able to access informative resources, participate in forums, view previous and current Technical Support cases and\r\nsubmit a case for Technical Support. You may access the Portal with the following web address: https://vertivco\u0002eng.custhelp.com/app/products/detail/p/287/page/1 and click Request Technical Support.\r\nUsers must have a Vertiv site login and register the first time they access the Customer Portal in order to submit a case.\r\nAdditionally, customers will be able to submit a request to open a Technical Support case by emailing\r\nsupport.avocent@VertivCo.com. When emailing Vertiv Technical Support related to an already existing case, please be\r\nsure to include the existing case number on the email subject line, or the email will bounce back and you will receive an\r\nemail with directions sending you to the new portal.\r\nPlease note the Vertiv Technical Support system has a limitation of 1999 characters per email. Emails with over 1999\r\ncharacters will be truncated and the remainder of the text will not be viewable. For correspondence that requires a high\r\nlevel of detail, please place the correspondence into a Word or Text document and attach it to the email.\r\nVertiv looks forward to working with you through these new support forums and points of contact.\r\nRegards,\r\nVertiv®\r\nTechnical Support, Huntsville Facility\r\n4991 Corporate Drive | Huntsville, AL 35805-6201, USA\r\nwww.VertivCo.com\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 1",
+    "Source": "page_5",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_5-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 2",
+    "Source": "page_6",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_6-chunk0000"
+  },
+  {
+    "text": "2.0 TECHNICAL SUPPORT INCIDENT CREATION PROCESS\r\nVertiv® customers can submit an incident to Vertiv Technical Support several ways. Also, feel free to access our knowledge\r\nbase at https://VertivCo-eng.custhelp.com/app/community/page/1. Response times and follow up times are defined in the\r\nhardware and software maintenance tables in the Vertiv Technical Support guide.\r\n2.1 Phone\r\nWhen customers contact Support, they will first speak with a Technical Support Administrator who will triage the customer’s\r\nissue. After validating maintenance entitlement and assessing the severity of the issue, Support will inform the customer\r\nwhen a Technical Support Analyst will respond to the support request. Contact numbers and hours of operation can be\r\nfound in \"Technical Support Contact Hours\" on page 7 or in the Support section of the Vertiv website with the following web\r\naddress: https://www.VertivCo.com/en-us/about/contacts/support/#?country=198&pt4=19\r\nResponse and follow-up times are outlined in the hardware and software maintenance data sheets, and detailed descriptions\r\nare available in the Support section of the Vertiv website.\r\n2.2 Electronic/Email\r\nCustomers will be able to access informative resources, participate in forums, view previous and current Technical Support\r\ncases and submit a case for Technical Support. To access the Portal, visit the following web address: https://VertivCo\u0002eng.custhelp.com/app/products/detail/p/287/page/1 and click Request Technical Support.\r\nUsers must register and have an account on the Vertiv Community site to submit a case the first time they access the\r\nCustomer Portal. After registering, customers will be able to submit a request to open a Technical Support case by emailing\r\nsupport.avocent@VertivCo.com. If a case is opened via email, the customer will receive a confirmation email that will\r\ncontain the case number. If the case is opened through the Portal, the customer will be notified in the portal of the case",
+    "Source": "page_7",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_7-chunk0000"
+  },
+  {
+    "text": "contain the case number. If the case is opened through the Portal, the customer will be notified in the portal of the case\r\nnumber as well as receiving a confirmation email containing the case number. When emailing Vertiv Technical Support to\r\nopen a new ticket, please be sure to remove any previous case number from the email's subject line. Otherwise, the email\r\nwill be routed to a previous case (if it's still open), or generate a bounce back email, if the previous case has been closed..\r\nFollow-up times are outlined in the hardware and software maintenance data sheets, and detailed descriptions are available\r\nin the Support section: https://www.VertivCo.com/en-us/support/warranty/it-management-hardware-maintenance-program\u0002overview/.\r\nWhen an incident is resolved, the system will send a confirmation email stating that the incident has been closed. In the\r\nbody of the email, customers will have the opportunity to fill out a brief survey. Please do not use the number of a closed\r\ncase when emailing to support.avocent@VertivCo.com, as it will not generate a new case and the email will not have\r\nvisibility. We appreciate the opportunity to assist you and hope your interactions were timely and friendly.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 3",
+    "Source": "page_7",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_7-chunk0001"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 4",
+    "Source": "page_8",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_8-chunk0000"
+  },
+  {
+    "text": "3.0 CREATING A COMPANY ACCOUNT FOR EMPLOYEES REQUIRING\r\nFULL PORTAL ACCESS\r\nTo create an account for companies with multiple employees requiring access to all cases in the Portal:\r\n1. Create a generic account that will be used for all employees and to which all cases of that company will be added.\r\nUse a generic email address for this account.\r\n2. Create a test case from the Portal using that generic account and specify the name of company you would like this\r\ngeneric account to be linked with.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 5",
+    "Source": "page_9",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_9-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 6",
+    "Source": "page_10",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_10-chunk0000"
+  },
+  {
+    "text": "4.0 TECHNICAL SUPPORT CONTACT HOURS\r\nThe following numbers are available for software in maintenance, hardware under maintenance, hardware under standard\r\nwarranty and out-of-warranty hardware customers.\r\nNOTE: For customers who are in the Middle East, Standard or Silver support on Sunday is currently available in\r\nEnglish only by calling the local technical support phone number. You will be asked to leave a voice mail which will\r\nbe forwarded to our on-call technician. Support is offered between your local hours of 9:00am – 5:30pm.\r\n4.1 North & South America\r\nLOCATION  AVAILABLE\r\nLANGUAGE1\r\nLOCAL COVERAGE IN LANGUAGE (EXCLUDES\r\nHOLIDAYS)2\r\nNUMBERS FOR\r\nSTANDARD H/W AND S/W\r\nWARRANTY SUPPORT3\r\nEmerson Network Power Avocent Products and Services, 4991 Corporate Drive, Huntsville, AL 35805\r\nUSA English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 1-888-793-8763\r\nCanada English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 855-298-7409\r\nBrazil English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. + 1 256-217-1175\r\nSupport Numbers can be called during Local Hours as shown.\r\n4.2 Europe & Middle East\r\nLOCATION  AVAILABLE\r\nLANGUAGE1 LOCAL COVERAGE IN LANGUAGE (EXCLUDES HOLIDAYS)2\r\nNUMBERS FOR\r\nSTANDARD\r\nH/W AND S/W\r\nWARRANTY\r\nSUPPORT3\r\nEmerson Network Power Avocent Products and Services, Avocent House, Shannon Free Zone, Shannon, County Clare, Ireland\r\nUK English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0-808-234-3473\r\nFrance French Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800-911955\r\nGermany German Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800 5888162\r\n1Middle East English Mon-Thu\r\n9:00 a.m. to 5:30 p.m. + 353 61 715292\r\nSupport Numbers can be called during Local Hours as shown.\r\nLOCATION AVAILABLE\r\nLANGUAGE1\r\nLOCAL COVERAGE IN LANGUAGE (EXCLUDES\r\nHOLIDAYS)2\r\nNUMBERS\r\nFOR\r\nSTANDARD\r\nH/W AND\r\nS/W\r\nWARRANTY\r\nSUPPORT3\r\nSwitzerland French, German & English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n0800-556-\r\n192\r\nBelgium French Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800-767-31\r\nAustria German Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800-291393",
+    "Source": "page_11",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_11-chunk0000"
+  },
+  {
+    "text": "9:00 a.m. to 5:30 p.m.\r\n0800-556-\r\n192\r\nBelgium French Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800-767-31\r\nAustria German Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800-291393\r\nIreland English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n1-800-657-\r\n563\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 7",
+    "Source": "page_11",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_11-chunk0001"
+  },
+  {
+    "text": "LOCATION AVAILABLE\r\nLANGUAGE1\r\nLOCAL COVERAGE IN LANGUAGE (EXCLUDES\r\nHOLIDAYS)2\r\nNUMBERS\r\nFOR\r\nSTANDARD\r\nH/W AND\r\nS/W\r\nWARRANTY\r\nSUPPORT3\r\nDenmark English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 8088.5123\r\nNorway English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 800.14.295\r\nSweden English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 020.791.650\r\nAll other EMEA English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n+ 353 61\r\n715292\r\nSupport Numbers can be called during Local Hours as shown.\r\n4.3 Asia Pacific\r\nLOCATION  AVAILABLE\r\nLANGUAGE1\r\nLOCAL COVERAGE IN LANGUAGE (EXCLUDES\r\nHOLIDAYS)2\r\nNUMBERS FOR\r\nSTANDARD H/W\r\nWARRANTY SUPPORT3\r\nEmerson Network Power Avocent Products and Services , 151 Lorong Chuan, Lobby D, #05-04, new Tech Park, Singapore 55674\r\nAustralia English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 1-800-614-901\r\nNew Zealand English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 0800-451280\r\nIndia English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 000.800.001.6151\r\nHong Kong English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 800-966-160\r\nLOCATION  AVAILABLE\r\nLANGUAGE1 LOCAL COVERAGE IN LANGUAGE (EXCLUDES HOLIDAYS)2\r\nNUMBERS\r\nFOR\r\nSTANDARD\r\nH/W\r\nWARRANTY\r\nSUPPORT3\r\nKorea English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n00-798-14-\r\n800-7879\r\nTaiwan Mandarin Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n00801-13-\r\n6091\r\nSingapore English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n800-120-\r\n5307\r\nMalaysia English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n1 800-814-\r\n844\r\nThailand English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n1 800-12-\r\n066-6732\r\nIndonesia English Mon-Fri\r\n9:00 a.m. to 5:30 p.m.\r\n007803-011-\r\n0248\r\nVietnam English Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 120-11066\r\nChina Mandarin Mon-Fri\r\n9:00 a.m. to 5:30 p.m. 4001-202135\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 8",
+    "Source": "page_12",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_12-chunk0000"
+  },
+  {
+    "text": "LOCATION  AVAILABLE\r\nLANGUAGE1 LOCAL COVERAGE IN LANGUAGE (EXCLUDES HOLIDAYS)2\r\nNUMBERS\r\nFOR\r\nSTANDARD\r\nH/W\r\nWARRANTY\r\nSUPPORT3\r\nJapan Japanese Mon-Fri\r\n9:30 a.m. to 6:00 p.m.\r\n0066-33-\r\n813454\r\nSupport Numbers can be called during Local Hours as shown.\r\n1 Additional languages may be available during specific hours.\r\n2 Silver / Standard Warranty / Out-of-Warranty support will be unavailable during local in-country holidays.\r\n3 For gold level hardware and software maintenance plans, 24/7 English-only support can be obtained by calling the local\r\nsupport number.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 9",
+    "Source": "page_13",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_13-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 10",
+    "Source": "page_14",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_14-chunk0000"
+  },
+  {
+    "text": "5.0 AVOCENT HARDWARE WARRANTY AND MAINTENANCE\r\nBENEFITS\r\nLIMITED SILVER GOLD\r\nTerm Length\r\n(Maximum of 4\r\nyears)\r\n2 years with product registration1 1 year, 2 year, or 4 years2 1 year, 2 year, or 4 years2\r\nTelephone Access Access (8/5) Access (8/5) Anytime Access (24/7)\r\nHardware\r\nReplacement\r\nReturn to Factory – 10- to 14-day\r\nRMA post receipt of failed unit\r\nAdvanced Replacement –\r\nNext-business-day RMA4 Advanced Replacement – Next-business-day RMA4\r\nResponse Time Within 24 hours\r\nBased on Severity level3:\r\n1, 2 = 4 hours\r\n3, 4 = 12 hours\r\nBased on Severity level3:\r\n1, 2 = 2 hours\r\n3, 4 = 8 hours\r\nFollow Up Time Within 5 days\r\nBased on Severity level3:\r\n1 = Every 8 hours\r\n2 = Every 2 days\r\n3, 4 = Every 5 days\r\nBased on Severity level3:\r\n1 = Every 4 hours\r\n2 = Daily\r\n3, 4 = Every 3 days\r\nMedia Retention Option not available Option not available\r\nl Available for Gold customers\r\nl Separate SKU (Avocent® SwitchView SC switch,\r\nAvocent® Universal Management Gateway\r\nappliance)\r\n1 Government and European customers excluded.\r\n2 HMX extender system and AMX™ switch excluded in 4 year offering.\r\n3 See detailed Severity table below.\r\n4 Reasonable efforts will be made to ship same day for requests received by 2:00 p.m. Circumstances such as customs,\r\nduties, tariffs and receipt mechanisms at customer locations may affect actual delivery time.\r\n5.1 RMA Details\r\n• Advanced Replacement (offered with Silver or Gold maintenance agreement): The customer receives a next\u0002business-day replacement unit prior to shipping the failed unit to Avocent.\r\n• Advanced Replacement with Media Retention (only offered in conjunction with a Gold maintenance agreement): The\r\ncustomer keeps the dead unit and sends a certificate of destruction within a set period of time.\r\n• Next Steps: Contact your Avocent sales rep for SKUs, pricing and additional information.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 11",
+    "Source": "page_15",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_15-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 12",
+    "Source": "page_16",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_16-chunk0000"
+  },
+  {
+    "text": "6.0 AVOCENT SOFTWARE WARRANTY AND MAINTENANCE\r\nBENEFITS\r\nSILVER GOLD\r\nTerm Length1 1 year or 2 year options 1 year or 2 year options\r\nTelephone Access2 Limited Access (8/5) Anytime Access (24/7)\r\nResponse Time3\r\nBased on Severity level:\r\n1, 2 = 4 hours\r\n3, 4 = 12 hours\r\nBased on Severity level:\r\n1, 2 = 2 hours\r\n3, 4 = 8 hours\r\nFollow Up Time3\r\nBased on Severity level:\r\n1 = Every 8 hours\r\n2 = Every 2 days\r\n3, 4 = Every 5 days\r\nBased on Severity level:\r\n1 = Every 4 hours\r\n2 = Daily\r\n3, 4 = Every 3 days\r\nTechnical Contacts4 3 6\r\n1Start date is date of purchase\r\n2 8/5 (English, French, German Mandarin & Japanese); 24/7 (English in all GEOs)\r\n3 Start date is date of purchase\r\n4 Technical contacts are qualified customer contacts that will be authorized to open support incidents and interact with\r\nTechnical Support.\r\nNOTE: Please note that all response times and follow-up times are estimates only. Avocent will use its best efforts\r\nto meet the noted times but makes no guarantee or warranties with respect to such response times and follow-up\r\ntimes. Avocent's ability to resolve some software issues or triage an issue that may need engineering to resolve,\r\nmay require remote access to the software environment. Failure to provide remote access may result in a delay or\r\nlack of a resolution for the reported issue.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 13",
+    "Source": "page_17",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_17-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 14",
+    "Source": "page_18",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_18-chunk0000"
+  },
+  {
+    "text": "7.0 ADDITIONAL DETAIL OF SEVERITY\r\nSEVERITY DESCRIPTION EXAMPLES\r\n1\r\nComplete loss of service for all users. Causes direct\r\nrevenue loss. This will affect a large group of customers or causes direct revenue loss.\r\n2\r\nLimited loss of service. No acceptable workaround\r\navailable. Operations can continue in a limited\r\nfashion.\r\n* Does not cause direct revenue loss.\r\nLarge group of customers are not able to use an application but can perform other\r\nwork-related duties. An application is down, but does not directly affect revenue.\r\n3\r\nMinor impact to limited functionality. Functional via\r\nworkaround. Inconvenience.\r\nMinimal affect to productivity. A problem that affects an individual user but there\r\nis an alternative.\r\n4 No loss of service. Request for information. ‘How To’ questions, requests for information.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 15",
+    "Source": "page_19",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_19-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 16",
+    "Source": "page_20",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_20-chunk0000"
+  },
+  {
+    "text": "8.0 REQUESTING A NEW SYMBOL\r\nTo request a new symbol:\r\n1. Log into symbolsorder.VertivCo.com with your Customer Account Login ID. (In order to have a symbols account\r\ncreated, a customer will need to submit a request to Technical Support. After maintenance is validated, the customer\r\nwill be delivered the credentials for the new account).\r\n2. Check to make sure that the symbols you are requesting are not in the current library.\r\n3. Enter the required information, detailed below.\r\n4. Attach any documents and photographs to the original ticket request.\r\nThe following fields marked with an asterisk (*) are required to begin the research process:\r\n• *Manufacturer Name\r\n• *Model Number\r\n• Serial number\r\n• *Device Type\r\n• Mounting Type\r\n• Dimensions – Height x Width x Depth (in this order)\r\n• Racks/Cabinets\r\n• Number of Units\r\n• Internal Rail Size\r\n• Patch Panels\r\n• Number of Ports\r\n• Port Numbering - Uses manufacturer’s values, otherwise:\r\n• Three-digit Avocent Port Identification Number 001, 002, 003.... left to right, top to bottom, continuing on rear of\r\ndevice, or numbered as indicated on device. If some are numbered and others are not, the numbers indicated will be\r\nidentified and those not marked will follow the default pattern. Three digits is the maximum character field.\r\n• Any duplication of numbering will be created with a letter in front of the number (for example,01, 02, 03 must be\r\nduplicated in the front and back of a device; Avocent’s number schema will reflect as A01, A02, A03…and B01, B02,\r\nB03 ...)\r\n• Slot Numbering - Uses manufacturer's values, otherwise:\r\n• Two-digit Avocent Slot identification number\r\n• 01, 02, 03. Left to right, top to bottom, continuing on rear of device, or numbered on the device.\r\n• If some are numbered and others are not, the numbers indicated will be identified and those not marked will\r\nfollow the default pattern.\r\n• Slot Name – Slot name uses manufacturer's values, otherwise:\r\n• EXPANSION 1, 2. Also can be lettered, A, B, C.",
+    "Source": "page_21",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_21-chunk0000"
+  },
+  {
+    "text": "follow the default pattern.\r\n• Slot Name – Slot name uses manufacturer's values, otherwise:\r\n• EXPANSION 1, 2. Also can be lettered, A, B, C.\r\n• Receptacles – Receptacles use manufacturer's values, otherwise:\r\n• Numbered sequentially\r\n• Three phase will have 3 legs, these can be split 1 leg per receptacle, two legs to receptacle, three legs to\r\nreceptacle or combination of the three\r\n• Cards – List device manufacturer, model number and type of equipment that the card will be used with.\r\n8.1 Generic Symbols\r\nGeneric symbols will be used as place holders when documentation cannot be found to properly produce the symbol\r\nrequested.\r\nTo request a new generic symbol:\r\n1. Log into symbolsorder.VertivCo.com using your Customer Account Log-In ID.\r\n2. Check that the symbols you are requesting are not in the current library. In the Symbol Library, generic symbols are\r\nlisted with Avocent as the Manufacturer and the Model Number as ‘Device Name” (for example, Server).\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 17",
+    "Source": "page_21",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_21-chunk0001"
+  },
+  {
+    "text": "To research existing generic symbols:\r\n1. Query the Symbol Library. The query provides you with the Model Information which identifies the dimensions for\r\neach device.\r\n2. When searching for racks and cabinets, use the Rack Unit field to identify the number of units required.\r\n3. Enter the following required information.\r\n• Manufacturer Name = Avocent\r\n• Model Number = Device Type (server, controller, modem, etc.)\r\n• Racks & Cabinets\r\n• List: Number of Rack Units\r\n• List: Internal Rail Size\r\n• List: Height x Width x Depth (in this order)\r\nCustomers may check the manufacturer’s web site to confirm that a model number is valid. If additional information is\r\nrequired, a Symbol Engineer will contact the customer.\r\nEach customer is assigned a Symbol Engineer. Customers are notified during Symbol Orchestrate of the Symbol Engineer\r\nassigned to them.\r\n8.2 Checking the Status of a Symbol Request\r\nTo check status of a symbol request, follow these steps:\r\n1. Log into symbolsorder.VertivCo.com with your Customer Account Log-In ID.\r\n2. On the Symbols main menu, click Request List. The Request List appears with all your symbols requests.\r\n3. Refer to the Status column next to each request.\r\nFor an explanation of statuses, refer to the following information:\r\n• New – The request is in the customer queue. Click the Submit button to submit the request.\r\n• Awaiting Taker for Review & Research – The symbol has not yet been taken by a Symbol Engineer.\r\n• Avocent Requires Additional Information – Pending additional information from customer. Click the Resubmit button\r\nto send back the request.\r\nNOTE: Pending symbols requests will be closed after 30-days if additional information is not provided to create the\r\nsymbol by the customer or vendor. All closed requests can be resubmitted once all the relevant information has\r\nbeen submitted to Avocent.\r\n• Awaiting Research Confirmation – Customer has provided additional information.",
+    "Source": "page_22",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_22-chunk0000"
+  },
+  {
+    "text": "been submitted to Avocent.\r\n• Awaiting Research Confirmation – Customer has provided additional information.\r\n• Currently In Research And Review – Currently in review of front, rear views and physical and environmental\r\nspecifications.\r\n• Awaiting Drawing Services Assignment – Research has been completed. Pending distribution of Drawing Services\r\nEngineer.\r\n• Awaiting Symbol Production – The symbol is currently being manufactured.\r\n• Awaiting Symbol QA – Quality assurance has begun.\r\n• Symbols Ready For Download – The symbol has been completed and is pending download by the customer.\r\n• Closed – The symbol has been downloaded and the request has been closed.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 18",
+    "Source": "page_22",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_22-chunk0001"
+  },
+  {
+    "text": "9.0 PROFESSIONAL SERVICES\r\nInstalling and deploying your IT assets in an efficient, effective and productive manner can help maximize your return on\r\ninvestment. Vertiv provides a comprehensive range of deployment services for planned installation of your purchased\r\nequipment, and extended assistance to fine-tune your system configuration. Our deployment programs provide you with the\r\nexpert knowledge and resources to reduce your installation and implementation time. Key benefits of these programs\r\ninclude:\r\n• Vertiv expertise – Dramatically reduce risk of installation error.\r\n• Minimize disruption – Minimize disruption to your business by using proven methodologies and best practices to\r\nspeed up the installation process.\r\n• Free up internal resources – Let Vertiv handle the installation for you. Use your resources where they are most needed,\r\nsupporting your IT strategic business requirements.\r\n• Return on investment – The combination of benefits can help you realize the full potential of your Vertiv solution and\r\nmaximize your return on investment.\r\nOur deployment program process includes a Statement of Work (SOW), developed as a collaborative effort between Vertiv\r\nand the customer, which describes the specific tasks, scope of work, and deliverables for each project.\r\n9.1 Current Programs\r\n9.1.1 Site Survey\r\nVertiv provides planning services that include asset and configuration documentation as well as suggestions for improving\r\noperating efficiency when appropriate.\r\n9.1.2 Remote configuration and support for installations\r\nOnline delivery of configuration settings and pre-scheduled telephone support for installations. This service is intended for\r\ncustomers that have physically installed the Avocent products and need assistance in configuring the products to their\r\nenvironment.\r\n9.1.3 Implementation\r\nOn-site physical installation of newly purchased Avocent equipment. Configuration of network parameters, local devices,",
+    "Source": "page_23",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_23-chunk0000"
+  },
+  {
+    "text": "environment.\r\n9.1.3 Implementation\r\nOn-site physical installation of newly purchased Avocent equipment. Configuration of network parameters, local devices,\r\nsoftware installation and configuration of administrative and server parameters tailored for optimum performance within\r\nyour environment.\r\n9.1.4 Custom Implementation \r\n• Hardware and software upgrades\r\n• Re-installation\r\n• De-installation\r\n• Migration\r\n• Integration\r\nInstall the latest version of DSView® management software and/or product firmware. Integrate the DSView software solution\r\nwith your existing applications using the DSView Software Development Kit (SDK).\r\n9.2 Concurrent training\r\nOn-site hands-on training is available to show you how to maximize the potential of your newly implemented Vertiv solution.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 19",
+    "Source": "page_23",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_23-chunk0001"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 20",
+    "Source": "page_24",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_24-chunk0000"
+  },
+  {
+    "text": "10.0 AVOCENT END OF LIFE POLICY\r\nAll products reach an end point in their life cycle for various reasons. Vertiv® Products and Services recognizes that the\r\nEnd-of-Life (EOL) milestone affects customers’ plans for Avocent products in their data center. With this in mind, we have\r\ndefined Vertiv Products and Services EOL policy to assist customers in their planning and transition to newer Avocent\r\nproducts and technologies.\r\nThis EOL Policy applies to EOL announcements for all Avocent products. This policy does not apply to products that were\r\npreviously subject to EOL covered by a previous policy.\r\nThe general policy guidelines are as follows:\r\n• Vertiv will make reasonable effort to notify its customers with an EOL announcement with enough time to plan. These\r\nnotices will appear on the applicable product pages on www.VertivCo.com.\r\n• Access to Vertiv’s technical support center under standard terms and conditions will be available for two years after\r\nthe EOL date, or for the remainder of the standard warranty period.\r\n• Access to Vertiv’s technical support center will be available on a best-effort basis from between two to four years\r\nafter EOL. Repair or replacement of defective products may not be viable during this period, and an alternative\r\nproduct/solution will be recommended in these instances.\r\n• Vertiv is not obliged to grant access to the technical support center four years or more after EOL. Vertiv will make\r\nreasonable effort to recommend an alternative Vertiv product or solution and will provide access to the local Vertiv\r\nsales representative for pricing.\r\n• Vertiv will honor and support any hardware maintenance plans purchased prior to the EOL announcement for the full\r\nduration of the maintenance plan.\r\n• Vertiv is not obliged to add support for any new third-party hardware or software after the EOL date. During the first\r\ntwo years after the EOL date. Vertiv will provide reasonable effort to support peripherals or software that was",
+    "Source": "page_25",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_25-chunk0000"
+  },
+  {
+    "text": "two years after the EOL date. Vertiv will provide reasonable effort to support peripherals or software that was\r\nsupported at or before the EOL date.\r\n• Vertiv will not be obliged to update any agency certifications after the EOL date. Agency certification changes may\r\nbe supported as long as the hardware will support the certification without change.\r\n• For the period up to two years after the EOL date Vertiv will only develop code patches for the last version of code\r\nsupported at the EOL date and one major version older.\r\n10.1 Standard Guideline for EOL Milestones\r\nMILESTONE END-OF-LIFE ANNOUNCEMENT DAY 0,\r\nEOL DATE YEAR 1 YEAR 2 YEAR 3 YEAR 4 YEAR 5\r\nEOL notice period X\r\nPurchase new/renew maintenance\r\nagreements X X\r\nHardware repair or replacement X X X X X X\r\nTechnical support access X X X X X X\r\nThird-party HW and SW support X X X X\r\nAgency certifications X X\r\nCode patches X X X X\r\nX Fully Supported\r\nX Best effort / limited support\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 21",
+    "Source": "page_25",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_25-chunk0001"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 22",
+    "Source": "page_26",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_26-chunk0000"
+  },
+  {
+    "text": "11.0 RETURN MATERIAL AUTHORIZATION\r\nVertiv Technical Support has established the following guidelines in order to clarify Vertiv’s warranty and return material\r\nauthorization (RMA) practice.\r\nCATEGORY TECHNICAL SUPPORT ACTION SHIPPING CONDITIONS WARRANTY\r\nFOLLOWING\r\nNon-Contracted Customers\r\nDead on arrival (within 30\r\ndays of purchase)1\r\nBest effort, next\r\navailable Level 1\r\nstandard support\r\ntechnician\r\nAdvanced replacement Vertiv pays for shipping costs both\r\nways (expedited shipping) 5, 7, 8\r\nRemaining\r\nwarranty\r\napplicable\r\nStandard warranty 2\r\n(between 30 days and two\r\nyears from purchase date)\r\nBest effort, next\r\navailable Level 1\r\nstandard support\r\ntechnician\r\nFree repair or replacement after\r\nreceipt of faulty unit (standard\r\nshipping)\r\nCustomer pays to send us the faulty\r\nunit. Vertiv pays to ship replacement\r\n(standard shipping) 6\r\nRemaining\r\nwarranty\r\napplicable\r\nOut of warranty 2, 3 (after\r\ntwo years from purchase\r\ndate)\r\nBest effort, next\r\navailable Level 1\r\nstandard support\r\ntechnician\r\nChargeable repair or replacement\r\nat 30% of current list price, after\r\nreceipt of faulty unit) 4\r\nCustomer pays to send us the faulty\r\nunit. Vertiv pays to ship replacement\r\n(standard shipping) 6\r\n12-month\r\nwarranty on\r\nrepaired\r\ncomponent\r\nContracted Customers\r\nHardware Support Silver 8/5 Customer Support Advanced replacement\r\nCustomer pays to send us the faulty\r\nunit. Vertiv pays to ship replacement\r\n(standard shipping) 6, 7\r\nRemaining\r\nContract\r\nApplicable\r\nHardware Support Gold 24/7 Customer Support Advanced replacement\r\nCustomer pays to send us the faulty\r\nunit. Vertiv pays to ship replacement\r\n(standard shipping) 6, 7\r\nRemaining\r\nContract\r\nApplicable\r\n1 End-user proof of purchase must be provided; otherwise, Vertiv will only consider a unit dead on arrival (DOA) when it has\r\nfailed within 60 days from factory shipment date.\r\n2 Replacements or repairs typically require between 10 and 14 business days upon arrival of the faulty unit at Vertiv’s\r\nfacility.",
+    "Source": "page_27",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_27-chunk0000"
+  },
+  {
+    "text": "failed within 60 days from factory shipment date.\r\n2 Replacements or repairs typically require between 10 and 14 business days upon arrival of the faulty unit at Vertiv’s\r\nfacility.\r\n3 Out-of-warranty replacement or repair available for the same or similar model when the material is less than two years end\r\nof life (EOL); best effort when it has been EOL between two and four years. If the material has been EOL for more than four\r\nyears, the customer will be advised to purchase an alternative product.\r\n4 The repair fee excludes any applicable taxes, such as value added tax (VAT).\r\n5 Vertiv pays for customs import duties (delivery duty paid).\r\n6 Customs or import duties will be borne by the receiving party (delivery duty unpaid).\r\n7 For requests received prior to 2:00 p.m. local time on a normal business day, Vertiv will make a reasonable effort to ship\r\nout replacements on the same day.\r\n8 Vertiv reserves the right to charge the current list price for non-returned units.\r\n11.1 RMA Shipping Locations\r\nUS\r\nVertiv Corporate Headquarters\r\nAttn: RMA Department\r\n4991 Corporate Drive\r\nHuntsville, AL 35805\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 23",
+    "Source": "page_27",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_27-chunk0001"
+  },
+  {
+    "text": "EMEA\r\nAvocent International\r\nRMA XXXXXXX\r\nAvocent House Shannon\r\nCo Clare\r\nIreland\r\nAttn: Fintan Holden:\r\nContact: + 353 61 715197\r\nAPAC\r\nVertiv Asia Pacific Pte Ltd\r\nC/O GKE Warehouse & Logistics Pte Ltd\r\n30 Pioneer Road, Warehouse Level 3\r\nSingapore 628502\r\nAttn: Mr. Chian Heng Lai\r\nDirect contact: +65 6308 8625 & +65 6308 8676\r\nFor support phone numbers, please go to: https://www.vertivco.com/en-us/support/warranty/it-management-hardware\u0002support-contacts/.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 24",
+    "Source": "page_28",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_28-chunk0000"
+  },
+  {
+    "text": "12.0 AVOCENT LIMITED WARRANTY\r\nVertiv Technical Support warrants to the original retail purchaser that this product is and will be free from defects in\r\nmaterials and workmanship for a period of 24 months from date of purchase. During the warranty period, the purchaser must\r\npromptly contact Vertiv Technical Support for assistance to report a unit failure.\r\n12.1 Product Return Procedure\r\nTo return a product to Avocent for replacement:\r\n1. The customer must contact Vertiv Technical Support to log a support request by first signing in or joining our\r\ncommunity site.\r\n2. A qualified technician will troubleshoot the issue.\r\n3. If it is a hardware defect, the technician will forward an Avocent RMA form (which must be completed by the\r\nrequester) with the following details:\r\n• Product code(s)\r\n• Quantity\r\n• Serial number(s)\r\n• Avocent purchase order, sales order or invoice number (mandatory if no serial number can be given)\r\n• Full description of defect and troubleshooting completed\r\n• Company name and shipping address\r\n• Contact person name and telephone number for shipping purposes\r\nNOTE: If the unit is covered by an Avocent Hardware Support Contract, please highlight that information to the\r\nAvocent technician so that the request will receive priority.\r\n4. Once the completed form has been received, an RMA number will be issued and sent to the customer by a Technical\r\nSupport Representative within 24 hours (Monday to Friday), if the warranty can be validated appropriately.\r\n5. The customermust pack the faulty unit securely and write the RMA number on the outside of the box.\r\n6. If the unit is covered by under DOA, Vertiv will organize the pickup of the faulty product. Otherwise, it will be the\r\ncustomer’s responsibility to ship it to the appropriate Avocent location.\r\n7. The support request ticket will be closed, but the RMA process will remain open. If an update is required, the\r\ncustomer should contact Vertiv Technical Support with the RMA number for more details.",
+    "Source": "page_29",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_29-chunk0000"
+  },
+  {
+    "text": "customer should contact Vertiv Technical Support with the RMA number for more details.\r\nNOTE: If the faulty unit is a non-enterprise product (for example, SwitchView™switches, LongView™ extenders,\r\nAutoView™switches and so on) and was bought in EMEA through a Broadliner, the customer should contact the\r\npoint of purchase to receive a replacement unit. In this case, the customer will need to provide the Avocent\r\nsupport ticket number as proof that troubleshooting has been completed.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 25",
+    "Source": "page_29",
+    "chunkSeqId": 1,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_29-chunk0001"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 26",
+    "Source": "page_30",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_30-chunk0000"
+  },
+  {
+    "text": "13.0 OUT-OF-WARRANTY REPAIRS OR REPLACEMENTS\r\nIf the customer does not have existing payment terms with Vertiv, he or she will be required to prepay. The faulty unit will\r\nonly be repaired or replaced and returned to the customer once payment has been received, unless Vertiv has authorized\r\nother payment terms prior to the RMA.\r\nPayment methods available:\r\n• In the US: credit card (VISA/MC/AMEX in USD) or corporate or cashier’s check\r\n• In EMEA: Bank draft (in EUR, GBP or USD) or bank transfer(in EUR, GBP or USD)\r\nNOTE: The customer must provide the EU VAT number and registered address; otherwise VAT will be added to the\r\nrepair fee. The invoice will be sent to the customer with the repaired or replaced unit.\r\nVertiv | Technical Support Customer Reference Guide Version 1 | 27",
+    "Source": "page_31",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_31-chunk0000"
+  },
+  {
+    "text": "Vertiv | Technical Support Customer Reference Guide Version 1 | 28",
+    "Source": "page_32",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_32-chunk0000"
+  },
+  {
+    "text": "VertivCo.com | Vertiv Headquarters, 1050 Dearborn Drive, Columbus, OH, 43085, USA\r\n© 2017 Vertiv Co. All rights reserved. Vertiv and the Vertiv logo are trademarks or registered trademarks of Vertiv Co. All other names and logos referred to are trade names,\r\ntrademarks or registered trademarks of their respective owners. While every precaution has been taken to ensure accuracy and completeness herein, Vertiv Co. assumes no\r\nresponsibility, and disclaims all liability, for damages resulting from use of this information or for any errors or omissions. Specifications are subject to change without notice.",
+    "Source": "page_34",
+    "chunkSeqId": 0,
+    "chunkId": "temp_Wsparcie_Techniczne_Vertiv_Przewodnik-page_34-chunk0000"
+  }
+]
